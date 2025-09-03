@@ -1,7 +1,7 @@
 import React from 'react'
 
-export default function footer() {
+export default function Footer() {
   return (
-    <div>footer</div>
+    <h1 className='text-blue-950 text-4xl text-center'>footer</h1>
   )
 }

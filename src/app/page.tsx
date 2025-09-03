@@ -1,10 +1,10 @@
 import Image from "next/image";
+import AboutUs from "./(client)/(homepage)/_components/about-us";
 
-export default function Home() {
+export default function HomePage() {
   return (
-  
     <>
-    <h1 className="text-red-500 text-center text-3xl font-bold">Hello </h1>
+  
     </>
   );
 }
